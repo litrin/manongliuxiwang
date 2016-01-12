@@ -32,3 +32,6 @@
   - [0x05 羊羊羊](https://github.com/litrin/manongliuxiwang/blob/master/while%7B%7D/0x05%20%E7%BE%8A%E7%BE%8A%E7%BE%8A.md)
   - [0x06 初雪](https://github.com/litrin/manongliuxiwang/blob/master/while%7B%7D/0x06%20%E5%88%9D%E9%9B%AA.md)
   - [0x07 旅程的终点](https://github.com/litrin/manongliuxiwang/blob/master/while%7B%7D/0x07%20%E6%97%85%E7%A8%8B%E7%9A%84%E7%BB%88%E7%82%B9.md)
+
+---
+本文的所有内容均为作者原创，著作权归作者所有。如有转载或出版需求，请直接联系作者本人。未经作者本人的允许，任何形式的使用和改版均视为侵权！
