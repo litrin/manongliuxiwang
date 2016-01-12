@@ -27,7 +27,7 @@ $(document).ready(function(){
   //   event.preventDefault();    
   // });
   
-  $("li a[href^='https://github.com/litrin/manongliuxiwang/blob/master/']").click(function(){
+  $("section li a[href^='https://github.com/litrin/manongliuxiwang/blob/master/']").click(function(){
     var url = $(this).attr("href");
     $(this).attr("href", "#")
     reg = RegExp("https://github.com/litrin/manongliuxiwang/blob/master/(.+\.md)")
