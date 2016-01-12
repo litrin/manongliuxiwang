@@ -48,5 +48,15 @@ $(document).ready(function(){
     $(window).scrollTop(0);
     return false;
   })
+
+  $("li a").click(function(){
+    var url = $(this).attr("href");
+    $(this).attr("href", "#")
+    reg = RegExp("https://github.com/litrin/manongliuxiwang/blob/master/(.*\.md)")
+    var file = reg.search(url)[1]
+    var api = "https://raw.githubusercontent.com/litrin/manongliuxiwang/master" + file
+
+    console.log({"url":$.ajax(api), "content": $(".wrapper")})
+  });
 });
 })(jQuery)
